@@ -1,7 +1,7 @@
-h1 Information on github
+h1. Information on github
 
 
-h2 Markdown
+h2. Markdown
 
 
 * Obviously, not only markdown can be used.
