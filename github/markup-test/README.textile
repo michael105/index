@@ -27,6 +27,7 @@ h2. Markdown
   -> https://github.com/adam-p/markdown-here/wiki/Other-Markdown-Tools
 
 
+h3. Markdown alternatives
 
 ... Personally I don't prefer markdown.
 
