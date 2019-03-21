@@ -23,6 +23,10 @@ h2. Markdown
 	and then there's a full "Ide"
 	https://stackedit.io/app
 	
+* Other markdown related links:
+  -> https://github.com/adam-p/markdown-here/wiki/Other-Markdown-Tools
+
+
 
 ... Personally I don't prefer markdown.
 
@@ -47,7 +51,7 @@ A list of supported formats is at ->https://github.com/github/markup
 
 ;) 
 
-- textile Seems to be intuitive to me. (->https://www.promptworks.com/textile/writing-paragraph-text#simple-paragraphs)
+* textile Seems to be intuitive to me. (->https://www.promptworks.com/textile/writing-paragraph-text#simple-paragraphs)
   .. Im nearly convinced by textile.
 	Orgmode seems to be a bit of an overkill.
 	And hard to use without all these predefined keys.
@@ -59,8 +63,19 @@ A list of supported formats is at ->https://github.com/github/markup
 	rendering for the web somehow has another target.
 	I guess, it's the difference of the intention.
 
+	The company behind textile looks nice as well. (>https://www.promptworks.com/)
+	That's an factor to me as well. I wouldn't even want to link a company, 
+	which seems to be unfriendly. ;) No. I won't even name things, I don't like.
+	This would be contraproductive.
+	Don't talk about things, you'd like to forget.
+	This would be like talking about your ex.
 
-- orgmode -  Looks good. Very good. It's more a whole organization system, based on tags.
+	If the ex is the ex, there's been a reason. 
+	Although I normally stay in contact, 
+	then it's going to be time for an upgrade.
+
+
+* orgmode -  Looks good. Very good. It's more a whole organization system, based on tags.
  It's originally for emacs. But there's also a vim plugin out there
  ->https://github.com/jceb/vim-orgmode
  it's also an outliner, todo list, and so on..
