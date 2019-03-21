@@ -84,4 +84,9 @@ A list of supported formats is at ->https://github.com/github/markup
 
 
 
+h2. git
+
+* Theres "hub" ->https://hub.github.com/
+		seems useful
+
 
