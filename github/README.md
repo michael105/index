@@ -42,4 +42,10 @@ and \###### biggest.
 
 Just now I'm checking the other possiblities.
 
+Ok. Firstly, it works. Just add another ending then .md
+A list of supported formats is at ->https://github.com/github/markup
+
+;) 
+
+
 
