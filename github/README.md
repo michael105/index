@@ -5,8 +5,7 @@
 
 
 - Obviously, not only markdown can be used.
-
-		-> https://github.com/github/markup
+   -> https://github.com/github/markup
 
 
 - Markdown Cheatsheet
