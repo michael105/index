@@ -5,14 +5,10 @@
 h2. Overview
 
 
-pre.. 
-I'm about to sort things out.
-
-	As always, I'm used to the bottom to top workflow.
-
-	So I have to start with information management..
-
-	Just now I'm "learning" textile.
+bc.. I'm about to sort things out.
+As always, I'm used to the bottom to top workflow.
+So I have to start with information management..
+Just now I'm "learning" textile.
 
 p.
 
