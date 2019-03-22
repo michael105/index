@@ -10,7 +10,7 @@ As always, I'm used to the bottom to top workflow.
 So I have to start with information management..
 Just now I'm "learning" textile.
 
-p. "About github (shell and markup)"./github
+p. "About github (shell and markup)":./github
 
 
 h3. repos
@@ -18,10 +18,10 @@ h3. repos
 "minilib":/michael105/minilib
 	Atm, my main project in focus.
 
-"home":../home
+"home":/michael105/home
 	Just a home skeleton, I'm used to in unix like environments
 
-"tools":../tools
+"tools":/michael105/tools
 	Assorted tools I've written
 
 
