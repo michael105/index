@@ -76,7 +76,7 @@ A list of supported formats is at ->https://github.com/github/markup
 	after separation it might be the time for an upgrade.
 
 	Finally there has been a reason.
-p
+p.
 
 * orgmode -  Looks good. Very good. It's more a whole organization system, based on tags.
  It's originally for emacs. But there's also a vim plugin out there
