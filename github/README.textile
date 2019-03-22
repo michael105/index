@@ -92,4 +92,9 @@ A list of supported formats is at ->https://github.com/github/markup
 	it seems to me like the rendering is looking .. a bit outdated.
 
 
+--- Conclusion
+
+	I'm going with textile
+	Looks somehow the best within vi.
+	And online.
 
