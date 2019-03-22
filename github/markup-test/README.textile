@@ -73,7 +73,9 @@ A list of supported formats is at ->https://github.com/github/markup
 
 	If the ex is the ex, there's been a reason. 
 	Although I normally stay in contact, 
-	then it's going to be time for an upgrade.
+	after separation it might be the time for an upgrade.
+
+	Finally there has been a reason.
 
 
 * orgmode -  Looks good. Very good. It's more a whole organization system, based on tags.
