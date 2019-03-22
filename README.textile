@@ -12,13 +12,15 @@ I guess, sorting the information I put
 onto github is a good first step.
 
 
-h3. General information of me
+h3. General information written by me
 
 
-"About github ''shell and markup''":./github
+"github":github 
+	about shell tools (hub,git,gih) 
+	and Markup
 
-"Odd sort of a ''Homepage''":https://michael105.github.io
-	To be honest, it's a joke. It's a awful design.
+"An odd Home":https://michael105.github.io
+	To be honest, it's a joke. An awful design.
 	I tried to do it worse than the silliest Homepages in the nineties.
 	Anyways, I did it, I leave it there.
 	I'm still blogging there sometimes
