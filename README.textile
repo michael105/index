@@ -6,16 +6,13 @@ h2. Overview
 
 
 
-I'm about to sort things out.
+	I'm about to sort things out.
 
+	As always, I'm used to the bottom to top workflow.
 
-As always, I'm used to the bottom to top workflow.
+	So I have to start with information management..
 
-
-So I have to start with information management..
-
-
-Just now I'm "learning" textile.
+	Just now I'm "learning" textile.
 
 
 "About github (shell and markup)"./github
@@ -23,7 +20,7 @@ Just now I'm "learning" textile.
 
 h3. repos
 
-"minilib":../minilib
+"minilib":../../minilib
 	Atm, my main project in focus.
 
 "home":../home
