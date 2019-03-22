@@ -9,9 +9,8 @@ bc.. I'm about to sort things out.
 As always, I'm used to the bottom to top workflow.
 So I have to start with information management..
 Just now I'm "learning" textile.
-p.
 
-"About github (shell and markup)"./github
+p. "About github (shell and markup)"./github
 
 
 h3. repos
