@@ -7,13 +7,25 @@ h2. Overview
 
 bc.. I'm about to sort things out.
 As always, I'm used to the bottom to top workflow.
-So I have to start with information management..
-Just now I'm "learning" textile.
+So I have to start with information management.
+I guess, sorting the information I put 
+onto github is a good first step.
 
-p. "About github (shell and markup)":./github
+
+h3. General information of me
 
 
-h3. repos
+"About github -shell and markup-":./github
+
+"Odd sort of \"Homepage\":https://michael105.github.io
+	To be honest, it's a joke. It's a awful design.
+	I tried to do it worse than the silliest Homepages in the nineties.
+	Anyways, I did it, I leave it there.
+	I'm still blogging there sometimes
+
+
+
+h3. Repos
 
 "minilib":/michael105/minilib
 	Atm, my main project in focus.
@@ -24,7 +36,9 @@ h3. repos
 "tools":/michael105/tools
 	Assorted tools I've written
 
-
+"weblinks":/michael105/weblinks
+	Trying to collect my bookmarks there.
+	Not many there atm.
 
 
 
