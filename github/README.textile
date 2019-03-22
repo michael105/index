@@ -52,8 +52,8 @@ A list of supported formats is at ->https://github.com/github/markup
 
 ;) 
 
-*.. textile Seems to be intuitive to me. (->https://www.promptworks.com/textile/writing-paragraph-text#simple-paragraphs)
-  .. Im nearly convinced by textile.
+* textile Seems to be intuitive to me. (->https://www.promptworks.com/textile/writing-paragraph-text#simple-paragraphs)
+  bc.. Im nearly convinced by textile.
 	Orgmode seems to be a bit of an overkill.
 	And hard to use without all these predefined keys.
 	the textile guys got many things right. Like \_soething_ to be rendered kursively.
@@ -76,7 +76,7 @@ A list of supported formats is at ->https://github.com/github/markup
 	after separation it might be the time for an upgrade.
 
 	Finally there has been a reason.
-
+p
 
 * orgmode -  Looks good. Very good. It's more a whole organization system, based on tags.
  It's originally for emacs. But there's also a vim plugin out there
