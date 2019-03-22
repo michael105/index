@@ -29,7 +29,7 @@ h3. General information written by me
 
 h3. Repos
 
-"minilib":/michael105/minilib
+"minilib":https://github.com/michael105/minilib
 
 bc. A tiny C system library (Ansi C subset), 
 creating REALLY small static linked programs. 
@@ -41,13 +41,13 @@ created with the standard toolchain)
 	Where Im going to continue just now.
 
 
-"home":/michael105/home
+"home":https://github.com/michael105/home
 	Just a home skeleton, I'm used to in unix like environments
 
-"tools":/michael105/tools
+"tools":https://github.com/michael105/tools
 	Assorted tools I've written
 
-"weblinks":/michael105/weblinks
+"weblinks":https://github.com/michael105/weblinks
 	Trying to collect my bookmarks there.
 	Not many there atm.
 
