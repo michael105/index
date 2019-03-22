@@ -77,7 +77,8 @@ pre.. Im nearly convinced by textile.
 	after separation it might be the time for an upgrade.
 
 	Finally there has been a reason.
-p. x
+
+p. 
 
 * orgmode -  Looks good. Very good. It's more a whole organization system, based on tags.
  It's originally for emacs. But there's also a vim plugin out there
