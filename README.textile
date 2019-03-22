@@ -15,9 +15,9 @@ onto github is a good first step.
 h3. General information of me
 
 
-"About github -shell and markup-":./github
+"About github \(shell and markup\)":./github
 
-"Odd sort of \"Homepage\":https://michael105.github.io
+"Odd sort of a ''Homepage''":https://michael105.github.io
 	To be honest, it's a joke. It's a awful design.
 	I tried to do it worse than the silliest Homepages in the nineties.
 	Anyways, I did it, I leave it there.
