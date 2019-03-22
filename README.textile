@@ -5,7 +5,7 @@
 h2. Overview
 
 
-
+bc..
 	I'm about to sort things out.
 
 	As always, I'm used to the bottom to top workflow.
@@ -13,14 +13,14 @@ h2. Overview
 	So I have to start with information management..
 
 	Just now I'm "learning" textile.
-
+p.
 
 "About github (shell and markup)"./github
 
 
 h3. repos
 
-"minilib":../../minilib
+"minilib":/michael105/minilib
 	Atm, my main project in focus.
 
 "home":../home
