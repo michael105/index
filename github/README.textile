@@ -1,4 +1,4 @@
-h1. Information on github
+h2. Some github related docus
 
 
 h2. Markdown
@@ -98,6 +98,5 @@ p.
 --- Conclusion
 
 	I'm going with textile
-	Looks somehow the best within vi.
-	And online.
+	Looks somehow the best within vi as well as online.
 
