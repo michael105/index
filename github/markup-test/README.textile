@@ -82,12 +82,12 @@ A list of supported formats is at ->https://github.com/github/markup
  it's also an outliner, todo list, and so on..
 
 
+* asciidoc - Seems like I should use this for repo's Readmes, e.g.
+  Also intuitive. And might render well.
 
+* rst. Looks also good for usual txt files.
+  However, lookign at the web page, 
+	it seems to me like the rendering is looking .. a bit outdated.
 
-
-h2. git
-
-* Theres "hub" ->https://hub.github.com/
-		seems useful
 
 

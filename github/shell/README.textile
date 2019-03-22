@@ -1,4 +1,24 @@
-h1. Using git from the shell
+h2. Using git from the shell
+
+Just a few hints.
+Im fedup googling the same things over and over again.
+My memory is sort of selective
+
+
+
+* There's "hub" ->https://hub.github.com/
+		seems quite useful
+
+->hub init 
+->hub create -d "Description"
+
+(somewhere must be the setting hidden for the default remote repo name..)
+possibly it's been this line?
+git config --global hub.protocol https
+
+git remote add -f origin git@github.com:USER/REPO.git
+
+Creates a new repo at github.
 
 
 
