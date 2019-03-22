@@ -126,6 +126,15 @@ git log --pretty=oneline
 git log --graph --oneline --decorate --all
 
 
+edit existing logs:
+
+git rebase -i "id"
+ ->change pick to "edit"
+git commit --amend
+ ->edit the log
+git rebase --continue
+
+
 useful hints
 
 built-in git GUI
