@@ -15,10 +15,6 @@ onto github is a good first step.
 h3. General information written by me
 
 
-"github":github 
-	about shell tools (hub,git,gih) 
-	and Markup
-
 "An odd Home":https://michael105.github.io
 	To be honest, it's a joke. An awful design.
 	I tried to do it worse than the silliest Homepages in the nineties.
@@ -28,6 +24,13 @@ h3. General information written by me
 
 
 h3. Repos
+
+"github":https://github.com/michael105/github
+	github related remarks.
+	about shell tools (hub,git,gih) 
+	and Markup
+
+
 
 "minilib":https://github.com/michael105/minilib
 
