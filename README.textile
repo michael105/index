@@ -44,15 +44,8 @@ created with the standard toolchain)
 	Where Im going to continue just now.
 
 
-"home":https://github.com/michael105/home
-	Just a home skeleton, I'm used to in unix like environments
-
 "tools":https://github.com/michael105/tools
 	Assorted tools I've written
-
-"weblinks":https://github.com/michael105/weblinks
-	Trying to collect my bookmarks there.
-	Not many there atm.
 
 "ET":https://github.com/michael105/et
 	The extraterrestrial editor.
@@ -72,4 +65,16 @@ created with the standard toolchain)
 	Yet I haven't gotten in contact with BSD.
 	But it's promising.
 
+"Readkey":https://github.com/michael105/readkey
+	Tiny tool for the terminal. 
+	12k statically linked. 
+	Wait for a key to be hit, with optional timeout. 
+	Prints the modifiers, cursor and function keys. 
 
+"weblinks":https://github.com/michael105/weblinks
+	Trying to collect my bookmarks there.
+	Not many there atm.
+	
+"home":https://github.com/michael105/home
+	Just a home skeleton, I'm used to in unix like environments
+	
