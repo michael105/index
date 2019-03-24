@@ -49,9 +49,10 @@ by the programming style of the original work.
 Admireable.
 
 "github":https://github.com/michael105/github
-	github related remarks.
-	about shell tools (hub,git,gih) 
-	and Markup
+
+bc. github related remarks.
+about shell tools (hub,git,gih) 
+and Markup
 
 "Doku-C":https://github.com/michael105/docu-c
 
@@ -63,7 +64,8 @@ Yet I haven't gotten in contact with BSD.
 But it's promising.
 
 "tools":https://github.com/michael105/tools
-	Assorted tools I've written
+
+bc. Assorted tools I've written
 
 "Readkey":https://github.com/michael105/readkey
 
@@ -73,9 +75,11 @@ Wait for a key to be hit, with optional timeout.
 Prints the modifiers, cursor and function keys. 
 
 "weblinks":https://github.com/michael105/weblinks
-	Trying to collect my bookmarks there.
-	Not many there atm.
+
+bc. Trying to collect my bookmarks there.
+Not many there atm.
 	
 
 "home":https://github.com/michael105/home
-	Just a home skeleton, I'm used to in unix like environments
+
+bc. Just a home skeleton, I'm used to in unix like environments
