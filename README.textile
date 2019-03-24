@@ -38,7 +38,7 @@ created with the standard toolchain)
 	Where Im going to continue just now.
 
 "ET":https://github.com/michael105/et
-	The extraterrestrial editor.
+bc. The extraterrestrial editor.
 	Extremely tiny. 
 	I modified some work of others,
 	and added the usability of Cursor keys, 
