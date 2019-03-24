@@ -25,12 +25,6 @@ h3. General information written by me
 
 h3. Repos
 
-"github":https://github.com/michael105/github
-	github related remarks.
-	about shell tools (hub,git,gih) 
-	and Markup
-
-
 
 "minilib":https://github.com/michael105/minilib
 
@@ -43,10 +37,6 @@ created with the standard toolchain)
 	Atm, my main project in focus.
 	Where Im going to continue just now.
 
-
-"tools":https://github.com/michael105/tools
-	Assorted tools I've written
-
 "ET":https://github.com/michael105/et
 	The extraterrestrial editor.
 	Extremely tiny. 
@@ -56,6 +46,11 @@ created with the standard toolchain)
 	Mainly I did so, cause I've been really surprised
 	by the programming style of the original work.
 	Admireable.
+
+"github":https://github.com/michael105/github
+	github related remarks.
+	about shell tools (hub,git,gih) 
+	and Markup
 
 "Doku-C":https://github.com/michael105/docu-c
 	Programming in C related documents.
@@ -75,6 +70,8 @@ created with the standard toolchain)
 	Trying to collect my bookmarks there.
 	Not many there atm.
 	
+"tools":https://github.com/michael105/tools
+	Assorted tools I've written
+
 "home":https://github.com/michael105/home
 	Just a home skeleton, I'm used to in unix like environments
-	
