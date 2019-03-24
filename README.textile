@@ -54,5 +54,22 @@ created with the standard toolchain)
 	Trying to collect my bookmarks there.
 	Not many there atm.
 
+"ET":https://github.com/michael105/et
+	The extraterrestrial editor.
+	Extremely tiny. 
+	I modified some work of others,
+	and added the usability of Cursor keys, 
+	function keys, and so on.
+	Mainly I did so, cause I've been really surprised
+	by the programming style of the original work.
+	Admireable.
+
+"Doku-C":https://github.com/michael105/docu-c
+	Programming in C related documents.
+	Amongst others, converted man pages of the BSD libc library.
+	I'm getting really eager on BSD, 
+	they are better written than the linux ones.
+	Yet I haven't gotten in contact with BSD.
+	But it's promising.
 
 
