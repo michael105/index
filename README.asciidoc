@@ -1,20 +1,19 @@
+:hardbreaks:
+
+### Index
 
 
-h2. Overview
-
-
-bc.. I'm about to sort things out.
+ I'm about to sort things out.
 As always, I'm used to the bottom to top workflow.
 So I have to start with information management.
 I guess, sorting the information I put 
 onto github is a good first step.
 
 
-h3. General information written by me
+#### General information written by me
 
-
-"An odd Home":https://michael105.github.io
-	To be honest, it's a joke. An awful design.
+ https://michael105.github.io[An odd Home]
+ To be honest, it's a joke. An awful design.
 	I tried to do it worse than the silliest Homepages in the nineties.
 	Anyways, I did it, I leave it there.
 	I'm still blogging there sometimes
