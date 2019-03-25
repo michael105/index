@@ -73,9 +73,9 @@ Tiny tool for the terminal.
 Wait for a key to be hit, with optional timeout. 
 Prints the modifiers, cursor and function keys. 
 
-| |*|
+| |*| |
 
-| https://github.com/michael105/github[*github*]
+ https://github.com/michael105/github[*github*]
 
 Github related.
 Cheatsheet for shell tools (hub,git,gih) 
@@ -87,7 +87,7 @@ https://github.com/michael105/tools[*tools*]
 
 Assorted tools I've written
 
-|*||
+| | * | |
 
 https://github.com/michael105/weblinks[*weblinks*]
 
