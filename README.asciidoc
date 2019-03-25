@@ -9,7 +9,6 @@ So I have to start with information management.
 I guess, sorting the information I put 
 onto github is a good first step.
 
-***
 
 ### General information written by me
 
@@ -21,11 +20,8 @@ https://michael105.github.io[https://michael105.github.com - *An odd Home*]
 	Anyways, I did it, I leave it there.
 	I'm still blogging there sometimes
 
-***
 
 ### Repos
-
-
 
 
 [cols="3.<"]
