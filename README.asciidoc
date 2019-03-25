@@ -24,7 +24,7 @@ https://michael105.github.io[https://michael105.github.com - *An odd Home*]
 ### Repos
 
 
-[cols="3.<,3.<,3.<,3.<"]
+[cols="3.<,3.<,3.<,3*.<"]
 |=====
 | | | 
 | https://github.com/michael105/minilib[*minilib* - tiny C lib]:
@@ -63,9 +63,7 @@ they are better written than the linux ones.
 Yet I haven't gotten in contact with BSD.
 But it's promising.
 
-||  
-
-https://github.com/michael105/readkey[*readkey*]
+||  https://github.com/michael105/readkey[*readkey*]
 
 Tiny tool for the terminal. 
 12k statically linked. 
