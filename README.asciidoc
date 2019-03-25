@@ -26,7 +26,7 @@ https://michael105.github.io[https://michael105.github.com - *An odd Home*]
 
 [cols="3.<"]
 |=====
-|| * || 
+| | | | 
 
 https://github.com/michael105/minilib[*minilib* - tiny C lib]:
 
