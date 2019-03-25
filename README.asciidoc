@@ -28,7 +28,7 @@ https://michael105.github.io[https://michael105.github.com - *An odd Home*]
 
 
 
-[cols="1,1,1"]
+[cols="3.<"]
 |=====
 || * |
 | https://github.com/michael105/minilib[*minilib* - tiny C lib]:
@@ -53,15 +53,15 @@ Mainly I did so, cause I've been really surprised
 by the programming style of the original work.
 Admireable.
 |
-|*|
-| https://github.com/michael105/github[github]
+|*| | https://github.com/michael105/github[github]
 
 github related remarks.
 cheatsheet for shell tools (hub,git,gih) 
 and Markup
-|   |
 
-"Doku-C":https://github.com/michael105/docu-c
+
+
+|   | "Doku-C":https://github.com/michael105/docu-c
 
 bc. Programming in C related documents.
 Amongst others, converted man pages of the BSD libc library.
@@ -69,19 +69,20 @@ I'm getting really eager on BSD,
 they are better written than the linux ones.
 Yet I haven't gotten in contact with BSD.
 But it's promising.
-|===
-
-"tools":https://github.com/michael105/tools
+||*|
+| "tools":https://github.com/michael105/tools
 
 bc. Assorted tools I've written
 
-"Readkey":https://github.com/michael105/readkey
 
-bc. Tiny tool for the terminal. 
+|| "Readkey":https://github.com/michael105/readkey
+
+Tiny tool for the terminal. 
 12k statically linked. 
 Wait for a key to be hit, with optional timeout. 
 Prints the modifiers, cursor and function keys. 
-
+|
+|===
 "weblinks":https://github.com/michael105/weblinks
 
 bc. Trying to collect my bookmarks there.
