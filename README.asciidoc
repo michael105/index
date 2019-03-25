@@ -1,6 +1,6 @@
 :hardbreaks:
 
-### Index
+## Index
 
 
  I'm about to sort things out.
@@ -53,9 +53,9 @@ Mainly I did so, cause I've been really surprised
 by the programming style of the original work.
 Admireable.
 
-| |*|  
+| || | 
 
-| https://github.com/michael105/docu-c[*Doku-C*]
+https://github.com/michael105/docu-c[*Doku-C*]
 
 Programming in C related documents.
 Amongst others, converted man pages of the BSD libc library.
@@ -64,7 +64,7 @@ they are better written than the linux ones.
 Yet I haven't gotten in contact with BSD.
 But it's promising.
 
-|*|  
+||  
 
 https://github.com/michael105/readkey[*readkey*]
 
