@@ -2,12 +2,11 @@
 
 ## Index
 
-
- I'm about to sort things out.
+`I'm about to sort things out.
 As always, I'm used to the bottom to top workflow.
 So I have to start with information management.
 I guess, sorting the information I put 
-onto github is a good first step.
+onto github is a good first step.`
 
 
 ### General information written by me
@@ -27,9 +26,9 @@ https://michael105.github.io[https://michael105.github.com - *An odd Home*]
 [cols="3.<,3.<,3.<,3*.<"]
 |=====
 | | | 
-| https://github.com/michael105/minilib[*minilib* - tiny C lib]:
+| https://github.com/michael105/minilib[*minilib* - tiny C system lib]:
 
- A tiny C system library (Ansi C subset), 
+ A tiny C system library (Posix C subset), 
 creating REALLY small static linked programs.     
 OSX, Linux, x32, x64. Static linking. 
 (151 bytes for "Hello world", 
@@ -43,14 +42,15 @@ __
 
 https://github.com/michael105/et[*ET - tiny texteditor*]
 
-The extraterrestrial editor.
+ The extraterrestrial editor.
 Extremely tiny. 
-I modified some work of others,
+
+__I modified some work of others,
 and added the usability of Cursor keys, 
 function keys, and so on.
 Mainly I did so, cause I've been really surprised
 by the programming style of the original work.
-Admireable.
+Admireable.__ 
 
 | || | 
 
