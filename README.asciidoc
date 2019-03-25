@@ -9,25 +9,28 @@ So I have to start with information management.
 I guess, sorting the information I put 
 onto github is a good first step.
 
+***
 
-#### General information written by me
+### General information written by me
 
 https://michael105.github.io[https://michael105.github.com - *An odd Home*]
  
  To be honest, it's a joke. An awful design.
 	I tried to do it worse than the silliest Homepages in the nineties.
+	What I bravoriously accomplished.
 	Anyways, I did it, I leave it there.
 	I'm still blogging there sometimes
 
+***
 
-
-#### Repos
+### Repos
 
 
 
 
 [cols="1,1,1"]
 |=====
+|| * |
 | https://github.com/michael105/minilib[*minilib* - tiny C lib]:
 
  A tiny C system library (Ansi C subset), 
@@ -50,11 +53,11 @@ Mainly I did so, cause I've been really surprised
 by the programming style of the original work.
 Admireable.
 |
+|*|
+| https://github.com/michael105/github[github]
 
-"github":https://github.com/michael105/github
-
-bc. github related remarks.
-about shell tools (hub,git,gih) 
+github related remarks.
+cheatsheet for shell tools (hub,git,gih) 
 and Markup
 |   |
 
