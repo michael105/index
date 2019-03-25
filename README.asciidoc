@@ -87,7 +87,7 @@ https://github.com/michael105/tools[*tools*]
 
 Assorted tools I've written
 
-||*|
+|*||
 
 https://github.com/michael105/weblinks[*weblinks*]
 
