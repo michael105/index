@@ -27,6 +27,7 @@ https://michael105.github.io[https://michael105.github.com - *An odd Home*]
 [cols="3.<"]
 |=====
 || * || 
+
 https://github.com/michael105/minilib[*minilib* - tiny C lib]:
 
  A tiny C system library (Ansi C subset), 
@@ -38,7 +39,10 @@ __
  Atm, my main project in focus.
  Where Im going to continue just now.
 __
-|    | https://github.com/michael105/et[*ET - tiny texteditor*]
+
+|    | 
+
+https://github.com/michael105/et[*ET - tiny texteditor*]
 
 The extraterrestrial editor.
 Extremely tiny. 
