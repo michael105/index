@@ -59,7 +59,7 @@ https://github.com/michael105/docu-c[*Doku-C*]
 Programming in C related documents.
 Amongst others, converted man pages of the BSD libc library.
 I'm getting really eager on BSD, 
-they are better written than the linux ones.
+they are written better than the linux ones.
 Yet I haven't gotten in contact with BSD.
 But it's promising.
 
