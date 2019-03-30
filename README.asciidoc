@@ -50,7 +50,8 @@ and added the usability of Cursor keys,
 function keys, and so on.
 Mainly I did so, cause I've been really surprised
 by the programming style of the original work.
-Admireable.__ 
+Admirable.. ;) although not very practical. 
+But that's another question...__ 
 
 | || | 
 
