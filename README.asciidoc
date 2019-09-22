@@ -3,7 +3,7 @@
 ## Index
 
 `I'm about to sort things out.
-As always, I'm used to the bottom to top workflow.
+I'm used to a bottom to top workflow.
 So I have to start with information management.
 I guess, sorting the information I put 
 onto github is a good first step.`
