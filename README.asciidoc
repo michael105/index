@@ -32,10 +32,10 @@ https://michael105.github.io[https://michael105.github.com - *Blog, about me*]
 | https://github.com/michael105/minilib[*minilib* - tiny C system lib]:
 
  A tiny C system library (Posix C subset), 
-creating REALLY small static linked programs.     
+for building REALLY small static linked programs.     
 OSX, Linux, x32, x64. Static linking. 
-(151 bytes for "Hello world", 
-created with the standard toolchain) 
+(151 bytes for "Hellow world", statically linked by gcc) 
+
 __
  Atm, my main project in focus.
  Where Im going to continue just now.
