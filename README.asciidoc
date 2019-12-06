@@ -8,17 +8,19 @@ I'm used to a bottom to top workflow.
 So I have to start with information management.
 I guess, sorting the information I put 
 onto github is a good first step.`
+
 ////
 
 
 https://michael105.github.io[https://michael105.github.com - *Blog, about me*]
  
- ////
+////
  To be honest, it's a joke. Featuring an awesome, ugh, I mean, awful design.
 	I tried to do it worse than the silliest Homepages in the nineties.
 	What I bravoriously accomplished, I guess.
 	Anyways, I did it, I leave it there.
 	I'm still blogging there sometimes
+
 ////
 
 ### Repos
@@ -48,7 +50,7 @@ Extremely tiny.
 
 __I modified some work of others,
 and added the usability of Cursor keys, 
-function keys, and so on.
+function keys, and vi-mode.
 Mainly I did so, cause I've been really surprised
 by the programming style of the original work.
 Admirable.. ;) although not very practical. 
