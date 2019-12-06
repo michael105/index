@@ -33,8 +33,8 @@ https://michael105.github.io[https://michael105.github.com - *Blog, about me*]
 
  A tiny C system library (Posix C subset), 
 for building REALLY small static linked programs.     
-OSX, Linux, x32, x64. Static linking. 
-(151 bytes for "Hellow world", statically linked by gcc) 
+OSX, Linux, x32, x64.  
+(151 bytes for "Hellow world", statically linked with gcc) 
 
 __
  Atm, my main project in focus.
