@@ -50,18 +50,6 @@ https://github.com/michael105/st-asc{*st-asc - st clone*]
    but until yet I always needed to dive into the configurations for 
    entering chars like },{,ß in unicode mode)
 
-	Colors are restricted to a 256 color palette 
-			(Saving 6 Bytes per Glyph)
-
-			Delayed allocation of the history buffer. 
-			Saves up to tenths or even hundreds of MB, 
-	depending on the terminal's width and history size
-
-			A few minor optimizations.
-
-			Nicer cursor and configurable cursorcolor for unfocused windows.
-			No scrollback "behind" the current history anymore.
-
 | || | 
 
 https://github.com/michael105/et[*ET - tiny texteditor*]
