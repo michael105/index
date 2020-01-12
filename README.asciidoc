@@ -39,7 +39,7 @@ OSX, Linux, x32, x64.
 
 | | 
 
-https://github.com/michael105/st-asc{*st-asc - st clone*]
+https://github.com/michael105/st-asc[*st-asc - st clone*]
 
  Slim version with performance and memory footprint related modifications.
 
