@@ -43,12 +43,12 @@ https://github.com/michael105/st-asc[*st-asc - st clone*]
 
  Slim version with performance and memory footprint related modifications.
 
- Stripped unicode support in favour of the 256 chars ASCII table
-   utf8 is an optional compiletime switch now
-   (Most programs suddenly handle German Umlauts, etc.pp out of the box, using the ASCII table only.
-   E.g. bash, vi, .. What is an interesting result. st has a quite good unicode handling,
-   but until yet I always needed to dive into the configurations for 
-   entering chars like },{,ß in unicode mode)
+__Stripped unicode support in favour of the 256 chars ASCII table
+utf8 is an optional compiletime switch now
+(Most programs suddenly handle German Umlauts, etc.pp out of the box, using the ASCII table only.
+ E.g. bash, vi, .. What is an interesting result. st has a quite good unicode handling,
+but until yet I always needed to dive into the configurations for 
+entering chars like },{,ß in unicode mode)__
 
 | || | 
 
