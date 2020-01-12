@@ -36,12 +36,33 @@ for building REALLY small static linked programs.
 OSX, Linux, x32, x64.  
 (151 bytes for "Hellow world", statically linked with gcc) 
 
-__
- Atm, my main project in focus.
- Where Im going to continue just now.
-__
 
-|    | 
+| | 
+
+https://github.com/michael105/st-asc{*st-asc - st clone*]
+
+ Slim version with performance and memory footprint related modifications.
+
+ Stripped unicode support in favour of the 256 chars ASCII table
+   utf8 is an optional compiletime switch now
+   (Most programs suddenly handle German Umlauts, etc.pp out of the box, using the ASCII table only.
+   E.g. bash, vi, .. What is an interesting result. st has a quite good unicode handling,
+   but until yet I always needed to dive into the configurations for 
+   entering chars like },{,ß in unicode mode)
+
+	Colors are restricted to a 256 color palette 
+			(Saving 6 Bytes per Glyph)
+
+			Delayed allocation of the history buffer. 
+			Saves up to tenths or even hundreds of MB, 
+	depending on the terminal's width and history size
+
+			A few minor optimizations.
+
+			Nicer cursor and configurable cursorcolor for unfocused windows.
+			No scrollback "behind" the current history anymore.
+
+| || | 
 
 https://github.com/michael105/et[*ET - tiny texteditor*]
 
@@ -56,6 +77,13 @@ by the programming style of the original work.
 Admirable.. ;) although not very practical. 
 But that's another question...__ 
 
+||  https://github.com/michael105/readkey[*readkey*]
+
+Tiny tool for the terminal. 
+12k statically linked. 
+Wait for a key to be hit, with optional timeout. 
+Prints the modifiers, cursor and function keys. 
+
 | || | 
 
 https://github.com/michael105/docu-c[*Doku-C*]
@@ -67,14 +95,8 @@ they are written better than the linux ones.
 Yet I haven't gotten in contact with BSD.
 But it's promising.
 
-||  https://github.com/michael105/readkey[*readkey*]
 
-Tiny tool for the terminal. 
-12k statically linked. 
-Wait for a key to be hit, with optional timeout. 
-Prints the modifiers, cursor and function keys. 
-
-| || |
+|| 
 
  https://github.com/michael105/github[*github*]
 
@@ -83,12 +105,6 @@ Cheatsheet for shell tools (hub,git,gih)
 and Markup
 Markup examples (asciidoc, md, ..)
 
-||
-
-https://github.com/michael105/tools[*tools*]
-
-Assorted tools I've written
-
 | |  | |
 
 https://github.com/michael105/weblinks[*weblinks*]
@@ -96,11 +112,13 @@ https://github.com/michael105/weblinks[*weblinks*]
 Trying to collect my bookmarks there.
 Not many there atm.
 	
+
 ||
 
-https://github.com/michael105/home[*home*]
+https://github.com/michael105/tools[*tools*]
 
-Just a home skeleton, I'm used to in unix like environments
+Assorted tools I've written
+
 
 |===
 
