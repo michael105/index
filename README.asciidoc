@@ -54,7 +54,7 @@ utf8 is an optional compiletime switch now
 
 |
 
-https://github.com/michael105/et[*ET - tiny texteditor*]
+https://github.com/michael105/et[*ET* <br> tiny texteditor]
 
  The extraterrestrial editor.
 Extremely tiny. 
