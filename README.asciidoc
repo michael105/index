@@ -30,7 +30,7 @@ https://michael105.github.io[https://michael105.github.com - *Blog, about me*]
 |===
 
 | https://github.com/michael105/minilib[*minilib* +
- tiny C system lib]
+ - tiny C system lib -]
 
 | 
 
@@ -43,7 +43,7 @@ https://michael105.github.io[https://michael105.github.com - *Blog, about me*]
 
 |
 
-https://github.com/michael105/st-asc[*st-asc* - st clone]
+https://github.com/michael105/st-asc[*st-asc* - st clone -]
 
 |
 
