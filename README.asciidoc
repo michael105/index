@@ -40,6 +40,13 @@ https://michael105.github.io[https://michael105.github.com - *Blog, about me*]
  (151 bytes for "Hellow world", statically linked with gcc) 
 
 
+| https://github.com/michael105/minicore[*minicore* slimmed down core utils]
+
+|
+
+ Slim down (gnu) core utils to 64kB. (Or, maybe, 128kB..)
+ A soothing puzzle in progress
+
 
 |
 
