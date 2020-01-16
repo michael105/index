@@ -29,7 +29,8 @@ https://michael105.github.io[https://michael105.github.com - *Blog, about me*]
 [cols=".<,1*.<"]
 |===
 
-| https://github.com/michael105/minilib[*minilib* - tiny C system lib]
+| https://github.com/michael105/minilib[*minilib* +
+ tiny C system lib]
 
 | 
 
