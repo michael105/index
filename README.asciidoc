@@ -104,7 +104,7 @@ Hopefully uploading them here prevents me of doing this for the Xth time in the 
 
  A pdf reader, I wrote 2011/12.
 At the time I needed a reader, which was able to read the huge scans of books I did. 
-(Did study Philosophy back then, absolved 2013 with the academic title M.A., "Magister Artium phil.")
+__(Did study Philosophy back then, absolved 2013 "Magister Artium phil.")__
 This reader is not only able to read documents with several 100's of MB without problems,
 it's possible to highlight (mark) positions within the document,
 and have all the marks rendered to a directory, named by page and document, they are located in.
