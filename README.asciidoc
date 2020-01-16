@@ -26,20 +26,25 @@ https://michael105.github.io[https://michael105.github.com - *Blog, about me*]
 ### Repos
 
 
-[cols="3.<,3.<,3.<,3*.<"]
-|=====
-| | | 
+[cols=".<,1*.<"]
+|===
+
 | https://github.com/michael105/minilib[*minilib* - tiny C system lib]:
 
+| 
+
  A tiny C system library (Posix C subset), 
-for building REALLY small static linked programs.     
-OSX, Linux, x32, x64.  
-(151 bytes for "Hellow world", statically linked with gcc) 
+ for building REALLY small static linked programs.     
+ OSX, Linux, x32, x64.  
+ (151 bytes for "Hellow world", statically linked with gcc) 
 
 
-| | 
+
+|
 
 https://github.com/michael105/st-asc[*st-asc - st clone*]
+
+|
 
  Slim version with performance and memory footprint related modifications.
 
@@ -47,12 +52,14 @@ __Stripped unicode support in favour of the 256 chars ASCII table
 utf8 is an optional compiletime switch now
 (Most programs suddenly handle German Umlauts, etc.pp out of the box, using the ASCII table only.__
 
-| || | 
+|
 
 https://github.com/michael105/et[*ET - tiny texteditor*]
 
  The extraterrestrial editor.
 Extremely tiny. 
+
+| 
 
 __I modified some work of others,
 and added the usability of Cursor keys, 
@@ -62,45 +69,84 @@ by the programming style of the original work.
 Admirable.. ;) although not very practical. 
 But that's another question...__ 
 
-||  https://github.com/michael105/readkey[*readkey*]
-
+|  
+https://github.com/michael105/readkey[*readkey*]
+|
 Tiny tool for the terminal. 
 12k statically linked. 
 Wait for a key to be hit, with optional timeout. 
 Prints the modifiers, cursor and function keys. 
 
-| || | 
 
+| https://github.com/michael105/zcomp[*zcomp*]
+| 
+ A compression/decompression algorithm implementation.
+work in progress
+
+| https://github.com/michael105/bitsort[*bitsort*]
+| 
+ Implementation of a sort algorithm.
+
+work in progress
+
+
+
+
+
+| https://github.com/michael105/debug.h[*debug.h*]
+| 
+ debugging macros for c/cpp.
+Hopefully uploading them here prevents me of doing this for the Xth time in the last years.
+
+
+| wxPDF
+| 
+
+ A pdf reader, I wrote 2011/12.
+At the time I needed a reader, which was able to read the huge scans of books I did. 
+(Did study Philosophy back then, absolved 2013 with the academic title M.A., "Magister Artium phil.")
+This reader is not only able to read documents with several 100's of MB without problems,
+it's possible to highlight (mark) positions within the document,
+and have all the marks rendered to a directory, named by page and document, they are located in.
+
+ It's one of my little bigger sized funprojects.
+
+|
 https://github.com/michael105/docu-c[*Doku-C*]
+|
 
-Programming in C related documents.
+ Programming in C related documents.
 Amongst others, converted man pages of the BSD libc library.
 I'm getting really eager on BSD, 
 they are written better than the linux ones.
-Yet I haven't gotten in contact with BSD.
-But it's promising.
+Yet I didn't really gotten in contact with BSD. Besides (mainly) the UI of OSX.
 
 
-|| 
+
+| 
 
  https://github.com/michael105/github[*github*]
+
+|
 
 Github related.
 Cheatsheet for shell tools (hub,git,gih) 
 and Markup
 Markup examples (asciidoc, md, ..)
 
-| |  | |
+|
 
 https://github.com/michael105/weblinks[*weblinks*]
-
+|
 Trying to collect my bookmarks there.
 Not many there atm.
 	
 
-||
+|
 
 https://github.com/michael105/tools[*tools*]
+
+|
 
 Assorted tools I've written
 
